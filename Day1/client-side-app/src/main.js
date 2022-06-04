@@ -15,4 +15,10 @@
 // import './2_functions/1_fn-creation';
 // import './2_functions/2_fn-parameters';
 // import './2_functions/3_rest-and-spread';
-import './2_functions/4_pure-impure-fn';
+// import './2_functions/4_pure-impure-fn';
+// import './2_functions/5_iife';
+// import './2_functions/6_fn-overloading';
+// import './2_functions/7_fn-overloading-assignment';
+// import './2_functions/8_arrow_fn';
+// import './2_functions/9_fn-as-arguments';
+import './2_functions/10_using-callbacks';
