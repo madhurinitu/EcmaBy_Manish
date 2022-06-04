@@ -12,5 +12,7 @@
 // import './1_datatypes/5_operators';
 // import './1_datatypes/6_symbols';
 
-import './2_functions/1_fn-creation';
-
+// import './2_functions/1_fn-creation';
+// import './2_functions/2_fn-parameters';
+// import './2_functions/3_rest-and-spread';
+import './2_functions/4_pure-impure-fn';
