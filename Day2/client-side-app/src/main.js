@@ -29,4 +29,6 @@
 // import './4_iterators/2_custom-iterable';
 // import './4_iterators/3_generators';
 
-import './5_modules/usage';
+// import './5_modules/usage';
+
+import './6_promise/1_creating_promise';
