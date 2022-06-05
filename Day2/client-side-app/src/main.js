@@ -8,4 +8,5 @@
 
 // import './2_objects/1_object_creation';
 // import './2_objects/2_symbol_as_keys';
-import './2_objects/3_object_type';
+// import './2_objects/3_object_type';
+import './2_objects/4_object_methods';
