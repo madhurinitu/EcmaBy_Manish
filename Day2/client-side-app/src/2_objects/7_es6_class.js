@@ -26,4 +26,5 @@ console.log(p2.getName());
 console.log(p1);
 console.log(p2);
 
+console.log(Person);
 // 96 bytes (48 bytes / object)
