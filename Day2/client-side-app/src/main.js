@@ -13,4 +13,6 @@
 // import './2_objects/5_custom_types';
 // import './2_objects/6_using-prototype';
 // import './2_objects/7_es6_class';
-import './2_objects/8_compare';
+// import './2_objects/8_compare';
+// import './2_objects/9_es5_properties';
+import './2_objects/10_es6_properties';
