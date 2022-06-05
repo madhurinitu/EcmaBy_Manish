@@ -3,4 +3,6 @@
 
 // import './1_functions/1_closures';
 // import './1_functions/2_fn-context';
-import './1_functions/3_fn-currying';
+// import './1_functions/3_fn-currying';
+import './1_functions/4_hof';
+
