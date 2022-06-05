@@ -7,4 +7,5 @@
 // import './1_functions/4_hof';
 
 // import './2_objects/1_object_creation';
-import './2_objects/2_symbol_as_keys';
+// import './2_objects/2_symbol_as_keys';
+import './2_objects/3_object_type';
