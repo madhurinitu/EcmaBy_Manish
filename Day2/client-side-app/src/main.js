@@ -27,4 +27,6 @@
 
 // import './4_iterators/1_well-known-symbols';
 // import './4_iterators/2_custom-iterable';
-import './4_iterators/3_generators';
+// import './4_iterators/3_generators';
+
+import './5_modules/usage';
