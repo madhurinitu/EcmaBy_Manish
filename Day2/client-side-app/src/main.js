@@ -15,4 +15,5 @@
 // import './2_objects/7_es6_class';
 // import './2_objects/8_compare';
 // import './2_objects/9_es5_properties';
-import './2_objects/10_es6_properties';
+// import './2_objects/10_es6_properties';
+import './2_objects/11_es6_static';
