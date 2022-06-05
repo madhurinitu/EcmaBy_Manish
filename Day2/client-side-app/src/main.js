@@ -2,4 +2,5 @@
 // This will run the module's global code, but doesn't import any values.
 
 // import './1_functions/1_closures';
-import './1_functions/2_fn-context';
+// import './1_functions/2_fn-context';
+import './1_functions/3_fn-currying';
