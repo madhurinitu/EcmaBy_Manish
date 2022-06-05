@@ -47,14 +47,37 @@
 
 // ------------------------------------------
 
-const next = (function () {
+// const next = (function () {
+//     var count = 0;
+
+//     return function () {
+//         return count += 1;
+//     }
+// })();
+
+// setInterval(() => {
+//     console.log(next());
+// }, 2000);
+
+// ------------------------------------------
+
+const counter = (function () {
     var count = 0;
 
-    return function () {
-        return count += 1;
-    }
+    return {
+        next: function () {
+            return count += 1;
+        }, 
+        prev: function () {
+            return count -= 1;
+        }
+    };
 })();
 
 setInterval(() => {
-    console.log(next());
+    console.log(counter.next());
 }, 2000);
+
+setInterval(() => {
+    console.log(counter.prev());
+}, 5000);
