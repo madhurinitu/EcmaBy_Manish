@@ -43,4 +43,3 @@ console.log(person_json.id);
 var p = JSON.parse(person_json);
 console.log(p);
 console.log(typeof p);
-console.log(p.id);
