@@ -112,21 +112,21 @@
 // ---------------------------------------------------------------------- Future Change (Annotations) (Decorators)
 // https://github.com/tc39/proposal-decorators
 
-@errorHandler()
-function m1(x, y) {
-    throw Error("Invalid Arguments....");
-}
+// @errorHandler()
+// function m1(x, y) {
+//     throw Error("Invalid Arguments....");
+// }
 
-function errorHandler(fn) {
-    return function(...args) {
-        try {
-            let result = fn.call(this, ...args);
-            return result;
-        } catch(e) {
-            console.error(e.message);
-        }
-    }
-}
+// function errorHandler(fn) {
+//     return function(...args) {
+//         try {
+//             let result = fn.call(this, ...args);
+//             return result;
+//         } catch(e) {
+//             console.error(e.message);
+//         }
+//     }
+// }
 
-m1(20,30);
-m1(21,31);
+// m1(20,30);
+// m1(21,31);
