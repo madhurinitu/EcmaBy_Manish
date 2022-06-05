@@ -20,4 +20,7 @@
 // import './2_objects/12_es5_inheritance';
 // import './2_objects/13_es6_inheritance';
 
-import './3_collections/1_arrays';
+// import './3_collections/1_arrays';
+// import './3_collections/2_es6_map';
+// import './3_collections/3_es6_set';
+import './3_collections/4_es6_weakmap';
