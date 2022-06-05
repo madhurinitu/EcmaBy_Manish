@@ -31,4 +31,6 @@
 
 // import './5_modules/usage';
 
-import './6_promise/1_creating_promise';
+// import './6_promise/1_creating_promise';
+
+import './7_ajax/dom-handler';
