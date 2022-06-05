@@ -23,4 +23,8 @@
 // import './3_collections/1_arrays';
 // import './3_collections/2_es6_map';
 // import './3_collections/3_es6_set';
-import './3_collections/4_es6_weakmap';
+// import './3_collections/4_es6_weakmap';
+
+// import './4_iterators/1_well-known-symbols';
+// import './4_iterators/2_custom-iterable';
+import './4_iterators/3_generators';
